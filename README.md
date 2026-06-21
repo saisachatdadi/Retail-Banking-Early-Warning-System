@@ -162,11 +162,11 @@ Allows analysts to:
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Customer Investigation
 
-![Customer Investigation](Images/Customer_Investigation.png)
+![Customer Investigation](Customer_Investigation.png)
 
 ---
 
