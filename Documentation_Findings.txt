@@ -1,0 +1,30 @@
+Risk Distribution
+
+Low      : 40,706
+Medium   : 8,857
+High     : 436
+Critical : 1
+
+--------------------------------
+
+Negative Balance Investigation
+
+4,752 accounts identified with negative balances.
+
+--------------------------------
+
+Duplicate Identity Investigation
+
+Duplicate email addresses investigated.
+
+Determined to be valid customer records.
+
+--------------------------------
+
+Branch Risk Concentration
+
+Highest concentrations of high-risk customers identified in:
+
+- Mullingar Business
+- Castlebar Quay
+- Longford Quay
