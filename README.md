@@ -186,11 +186,11 @@ Allows analysts to:
 ```text
 Retail-Banking-Early-Warning-System
 
-├── SQL
-├── PowerBI
-├── Images
-├── Documentation
-└── README.md
+├─ SQL
+├─ Power BI
+├─ Images
+├─ Documentation
+└─ README.md
 ```
 
 ---
@@ -199,7 +199,7 @@ Retail-Banking-Early-Warning-System
 
 Potential enhancements for future versions include:
 
-* Machine Learning based risk prediction
+* Machine Learning-based risk prediction
 * Time-series customer behaviour monitoring
 * Automated alert generation
 * Customer churn prediction integration
@@ -211,4 +211,4 @@ Potential enhancements for future versions include:
 
 Sai Sachat Dadi
 
-Portfolio Project developed using SQL, MySQL and Power BI.
+Portfolio Project developed using SQL, MySQL, and Power BI.
